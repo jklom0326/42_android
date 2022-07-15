@@ -1,3 +1,1 @@
-## 42_android_study
-
-###### 
+# 42_android_study
