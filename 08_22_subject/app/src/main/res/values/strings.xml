@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">08_22_subject</string>
+    <string name="main_text">로그인하기</string>
+    <string name="id_edit_text">아이디</string>
+    <string name="password_edit_text">비밀번호</string>
+    <string name="login_button">로그인</string>
+    <string name="main_menu">메인 메뉴</string>
 </resources>
